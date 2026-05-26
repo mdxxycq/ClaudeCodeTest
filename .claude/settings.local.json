@@ -6,7 +6,9 @@
       "Bash(gh auth *)",
       "Read(//c/Users/admin/.ssh/**)",
       "Bash(ssh-keygen *)",
-      "Bash(ssh -o StrictHostKeyChecking=no -T git@github.com)"
+      "Bash(ssh -o StrictHostKeyChecking=no -T git@github.com)",
+      "Bash(git *)",
+      "Bash(winget upgrade *)"
     ]
   }
 }
